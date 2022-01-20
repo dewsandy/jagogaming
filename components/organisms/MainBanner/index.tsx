@@ -50,8 +50,8 @@ export default function MainBanner() {
               </a>
             </div>
           </div>
+          <Illustration />
         </div>
-        <Illustration />
       </div>
     </section>
   );
